@@ -1,2 +1,2 @@
 DB Connect Sample
-php jsp
+php jsp & Database
