@@ -1,8 +1,8 @@
 <?php
     $serverName = "sqlserver.example.com";
-    $database = "myDbName";
-    $uid = 'sqlserver_username';
-    $pwd = 'password';
+    $database   = "myDbName";
+    $uid        = 'sqlserver_username';
+    $pwd        = 'password';
 
     try {
         $conn = new PDO(
